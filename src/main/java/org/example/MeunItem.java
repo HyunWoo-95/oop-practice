@@ -1,3 +1,5 @@
+package org.example;
+
 public class MeunItem {
 
 	private String name;
